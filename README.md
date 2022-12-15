@@ -9,7 +9,7 @@
 
 ## Description
 
-Technologies: [Nest](https://github.com/nestjs/nest), TypeScript, Prisma and Jest.
+Technologies: Nest, TypeScript, Prisma and Jest.
 
 ## Installation
 
