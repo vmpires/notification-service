@@ -1,8 +1,9 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://jestjs.io/" target="blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="200" alt="Jest Logo" /></a>
 </p>
 
-# Nest Notification Service
+# Notification Service in Nest
 
 ## Description
 
