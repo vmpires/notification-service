@@ -5,11 +5,11 @@
   <a href="http://jestjs.io/" target="blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="160" alt="Jest Logo" /></a>
 </p>
 
-# Notification Service in Nest
+# Notification Service
 
 ## Description
 
-Notification service in [Nest](https://github.com/nestjs/nest) framework using TypeScript, Prisma and Jest.
+Technologies: [Nest](https://github.com/nestjs/nest), TypeScript, Prisma and Jest.
 
 ## Installation
 
